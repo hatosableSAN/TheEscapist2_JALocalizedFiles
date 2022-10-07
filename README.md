@@ -3,7 +3,7 @@
 ## これは何？
 Steamゲーム「[The escapist 2](https://store.steampowered.com/app/641990/The_Escapists_2/)」の日本語化パッチを公開しています。
 ## どこからDLできる?
-このページの右側に「Release」という項目がありますので、目的のバージョンをお探しください。
+このページの右側に「Releases」という項目がありますので、目的のバージョンをお探しください。
 
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/81506948/194628686-361f334d-4fde-4297-a09f-f478a992c48a.png">
 
