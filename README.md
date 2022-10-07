@@ -1,0 +1,1 @@
+# TheEscapist2_JALocalizedFiles
