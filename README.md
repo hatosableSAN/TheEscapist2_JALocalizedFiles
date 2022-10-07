@@ -1,1 +1,7 @@
-# TheEscapist2_JALocalizedFiles
+# 「The　Escapist2」日本語化パッチ保管庫
+
+## これは何？
+
+##使用方法
+
+
